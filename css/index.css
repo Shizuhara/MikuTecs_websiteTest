@@ -1,4 +1,8 @@
 .welcome_MikuTecs.circle_icon {
     width: 100vw;
     height: auto;
+    background-color: blue;
+}
+.M {
+    background-color: pink;
 }
