@@ -2,6 +2,7 @@
     width: 100vw;
     height: auto;
     background-color: blue;
+    object-fit: cover;
 }
 .M {
     background-color: yellow;
