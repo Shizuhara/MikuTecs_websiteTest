@@ -2,11 +2,11 @@
     width: 100vw;
     height: auto;
     background-color: red;
+    object-fit: cover;
 }
-.welcome_MikuTecs .circle_icon {
+.circle_icon {
     background-color: blue;
 }
-
 .M {
     background-color: yellow;
 }
