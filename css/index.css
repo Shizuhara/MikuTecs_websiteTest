@@ -1,14 +1,12 @@
-.welcome_MikuTecs .circle_icon {
-    width: 100vw;
-    height: auto;
-    background-color: blue;
-    object-fit: cover;
-}
 .welcomepicture {
     width: 100vw;
     height: auto;
     background-color: red;
 }
+.welcome_MikuTecs .circle_icon {
+    background-color: blue;
+}
+
 .M {
     background-color: yellow;
 }
