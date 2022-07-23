@@ -4,6 +4,11 @@
     background-color: blue;
     object-fit: cover;
 }
+.sample_00 {
+    width: 100vw;
+    height: auto;
+    background-color: red;
+}
 .M {
     background-color: yellow;
 }
