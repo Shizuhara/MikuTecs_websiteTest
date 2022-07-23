@@ -1,4 +1,10 @@
-.welcome_tops .welcomepicture {
+.welcome_tops {
+    /* 位置 */
+    position: relative;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.welcomepicture {
     /* サイズ */
     width: 100vw;
     height: 100%;
@@ -6,10 +12,6 @@
     background-color: red;
     /* 画像サイズ */
     object-fit: cover;
-    /* 位置 */
-    position: relative;
-    margin-top: 0px;
-    margin-left: 0px;
 }
 .welcome_tops p {
     position: fixed;
