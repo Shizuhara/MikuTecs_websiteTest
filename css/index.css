@@ -1,4 +1,4 @@
-.welcomepicture {
+.welcome_tops .welcomepicture {
     /* サイズ */
     width: 100vw;
     height: auto;
@@ -6,6 +6,13 @@
     background-color: red;
     /* 画像サイズ */
     object-fit: cover;
+    /* 位置 */
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.welcome_tops p {
+    position: fixed;
 }
 .circle_icon {
     background-color: blue;
