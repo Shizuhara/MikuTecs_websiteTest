@@ -3,25 +3,24 @@ body {
     margin-top: 0px;
     margin-left: 0px;
 }
-.welcome_tops {
+.welcome_MikuTecs .welcome_tops {
     /* 位置 */
     position: relative;
 }
-.welcome_tops .welcomepicture {
+.welcome_MikuTecs .welcome_tops .welcomepicture {
     /* サイズ */
     width: 99vw;
     height: 100%;
-    /* 画像サイズ */
 }
-.welcome_tops p {
-    /* 位置 */
+.welcome_MikuTecs .welcome_tops p {
+    /* 位置_画像に重ねる */
+    position: fixed;
     top: 50%;
     left: 50%;
     /* カラー */
     color: #eee;
     text-shadow: 0 0 15px #000;
-
 }
-.welcome_tops .circle_icon {
+.welcome_MikuTecs .circle_icon {
     background-color: blue;
 }
