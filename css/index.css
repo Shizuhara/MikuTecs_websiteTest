@@ -18,6 +18,7 @@ body {
 }
 .welcome_tops p {
     position: fixed;
+    color: antiquewhite;
 }
 .circle_icon {
     background-color: blue;
