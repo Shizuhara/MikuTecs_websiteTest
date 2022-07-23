@@ -12,7 +12,6 @@ body {
     width: 99vw;
     height: 100%;
     /* 画像サイズ */
-    object-fit: cover;
 }
 .welcome_tops p {
     /* 位置 */
