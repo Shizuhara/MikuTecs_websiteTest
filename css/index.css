@@ -7,9 +7,8 @@
     /* 画像サイズ */
     object-fit: cover;
     /* 位置 */
-    position: relative;
-    top: 0px;
-    left: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
 }
 .welcome_tops p {
     position: fixed;
