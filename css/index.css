@@ -20,6 +20,8 @@ body {
     /* カラー */
     color: #eee;
     text-shadow: 0 0 15px #000;
+    /* 移動時の変化 */
+    transform: translateY(-50%) translateX(-50%);
 }
 .welcome_MikuTecs .circle_icon {
     background-color: blue;
