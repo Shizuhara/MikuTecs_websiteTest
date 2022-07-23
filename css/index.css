@@ -1,8 +1,10 @@
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+}
 .welcome_tops {
     /* 位置 */
     position: relative;
-    margin-top: 0px;
-    margin-left: 0px;
 }
 .welcomepicture {
     /* サイズ */
