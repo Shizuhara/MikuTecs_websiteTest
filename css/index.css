@@ -1,7 +1,10 @@
 .welcomepicture {
+    /* サイズ */
     width: 100vw;
     height: auto;
+    /* カラー */
     background-color: red;
+    /* 画像サイズ */
     object-fit: cover;
 }
 .circle_icon {
