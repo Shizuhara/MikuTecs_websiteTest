@@ -1,12 +1,13 @@
 .welcome_tops .welcomepicture {
     /* サイズ */
     width: 100vw;
-    height: auto;
+    height: 100%;
     /* カラー */
     background-color: red;
     /* 画像サイズ */
     object-fit: cover;
     /* 位置 */
+    position: relative;
     margin-top: 0px;
     margin-left: 0px;
 }
