@@ -15,7 +15,7 @@ body {
 .welcome_MikuTecs .welcome_tops p {
     /* 位置_画像に重ねる */
     position: sticky;
-    inset: 0;
+    inset: 50%;
     /* カラー */
     color: #eee;
     /* テキストデザイン */
