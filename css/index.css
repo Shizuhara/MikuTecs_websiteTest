@@ -14,14 +14,13 @@ body {
 }
 .welcome_MikuTecs .welcome_tops p {
     /* 位置_画像に重ねる */
-    position: fixed;
+    position: sticky;
     top: 50%;
     left: 50%;
     /* カラー */
     color: #eee;
     text-shadow: 0 0 15px #000;
     /* 移動時の変化 */
-    transform: translateY(-50%) translateX(-50%);
 }
 .welcome_MikuTecs .circle_icon {
     background-color: blue;
