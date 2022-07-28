@@ -3,10 +3,10 @@ body {
     margin-top: 0px;
     margin-left: 0px;
 }
-.welcome_MikuTecs .welcome_tops {
-    /* 位置 */
+/* .welcome_MikuTecs .welcome_tops {
+    
     position: relative;
-}
+} */
 .welcome_MikuTecs .welcome_tops .welcomepicture {
     /* サイズ */
     width: 99vw;
@@ -19,6 +19,7 @@ body {
     left: 50%;
     /* カラー */
     color: #eee;
+    /* テキストデザイン */
     text-shadow: 0 0 15px #000;
     /* 移動時の変化 */
 }
