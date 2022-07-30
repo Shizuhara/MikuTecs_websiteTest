@@ -3,9 +3,6 @@ body {
     margin-top: 0px;
     margin-left: 0px;
 }
-.welcome_MikuTecs .welcome_tops { 
-    position: relative;
-}
 .welcome_MikuTecs .welcome_tops .welcomepicture {
     /* サイズ */
     width: 99vw;
